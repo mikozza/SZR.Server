@@ -6,6 +6,14 @@
 - Geolocation search
 - Prioritization system
 
+# Links
+
+API Server
+http://api.slevazarohem.cz/swagger/index.html
+
+Front End
+http://slevazarohem.cz/
+
 # Tech
 .NET Core 3.1 API
 
@@ -24,3 +32,4 @@
 - Add DB connection string to appsettings
 - Run and test in swagger
 - Deploy ( Azure web app recommended)
+
